@@ -1,0 +1,7 @@
+a=int(input("Enter 1st Number: "))
+b=int(input("Enter 2nf Number: "))
+print(f"Addition of {a} and {b} = {a+b}")
+print(f"Subtraction of {a} and {b} = {a-b}")
+print(f"Multiplication of {a} and {b} = {a*b}")
+print(f"Division of {a} and {b} = {a/b}")
+print(f"Floot Division of {a} and {b} = {a//b}")
